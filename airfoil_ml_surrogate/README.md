@@ -173,6 +173,8 @@ streamlit run app/app.py
 
 ## 1️⃣ Lift Coefficient Prediction
 
+![alt text](cl_prediction.png)
+
 ### File:
 ```text
 graphs/cl_prediction.png
@@ -189,6 +191,8 @@ A tighter scatter indicates better model accuracy.
 
 ## 2️⃣ Drag Coefficient Prediction
 
+![alt text](cd_prediction.png)
+
 ### File:
 ```text
 graphs/cd_prediction.png
@@ -202,6 +206,8 @@ Shows the prediction quality of:
 ---
 
 ## 3️⃣ Lift Prediction Error Distribution
+
+![alt text](error_distribution.png)
 
 ### File:
 ```text
@@ -219,6 +225,8 @@ A narrow distribution centered around zero indicates strong performance.
 ---
 
 ## 4️⃣ Actual vs Predicted Lift Curve
+
+![alt text](actual_vs_predicted_cl.png)
 
 ### File:
 ```text
